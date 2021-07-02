@@ -1,5 +1,4 @@
-# Academic-projects
-1. Parsing Data and Text Preprocessing
+# Parsing Data and Text Preprocessing
 
 Parsing Data
 
@@ -15,5 +14,3 @@ Pre-process a set of tweets and convert them into numerical representations extr
 Generate the corpus vocabulary
 For each day, calculate the top 100 frequent unigram and top-100 frequent bigrams
 Generate the sparse representation
-
-2. Data Integration and Reshaping
